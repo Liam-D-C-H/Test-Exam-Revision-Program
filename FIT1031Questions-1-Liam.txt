@@ -1,0 +1,144 @@
+1: Which of the following is 10^6?
+A: Kilo
+B: Mega
+C: Giga
+D: Tera
+1A: B
+2: Which of the following is 10^9?
+A: Kilo
+B: Mega
+C: Giga
+D: Tera
+2A: C
+3: Which of the following is 10^3?
+A: Kilo
+B: Mega
+C: Giga
+D: Tera
+3A: A
+4: Which of the following is 10^12?
+A: Kilo
+B: Mega
+C: Giga
+D: Tera
+4A: D
+5: Which of the following is 10^-6?
+A: Milli
+B: Micro
+C: Nano
+D: Pico
+5A: B
+6: Which of the following is 10^-15?
+A: Micro
+B: Nano
+C: Pico
+D: Femto
+6A: D
+7: Which of the following is 10^-12?
+A: Micro
+B: Nano
+C: Pico
+D: Femto
+7A: C
+8: How many pulses per second is 1ghz?
+A: 1,000,000,000
+B: 1,000
+C: 1,000,000,000,000
+D: 1,000,000
+8A: A
+9: Which of the following organisations does not set standards?
+A: IEEE
+B: ITU
+C: ISO
+D: IEEX
+9A: D
+10: Which of the following is not associated with generation 0 of computing?
+A: Blaise Pascal
+B: Electricity
+C: Mechanical calculating machines
+D: Charles Babbage
+10A: B
+11: Which of the following is not associated with generation 1 of computing?
+A: Integrated circuits
+B: Alan Turing
+C: Z1-Z3
+D: Vacuum Tube Computers
+11A: A
+12: Which of the following is not associated with generation 2 of computing?
+A: Assembly language is introduced
+B: Transistorized Computers
+C: Personal computers avaliable
+D: High level languages introduced
+12A: C
+13: Which of the following is not associated with generation 3 of computing?
+A: Integrated Circuits
+B: Mechanical logic
+C: IBM System/360
+D: DEC's PDP-8
+13A: B
+14: Which of the following is not associated with generation 4 of computing?
+A: Microprocessors
+B: Apple 1 & 2
+C: VLSI Computers (more than 10,000 components per chip)
+D: DEC's PDP-8
+14A: D
+15: Which of the following is not associated with generation 5 of computing?
+A: The future
+B: Phase disruptors
+C: Nanotechnology
+D: Quantum computing
+15A: B
+16: Which of the following is not at the right level for the layered architecture?
+A: Level 5 User
+B: Level 3 System Software
+C: Level 2 Machine
+D: Level 1 Control
+16A: A
+17: Which level of the layered architecture is the User level?
+A: Level 6
+B: Level 7
+C: Level 3
+D: Level 0
+17A: A
+18: Which level of the layered architecture is the Assembly Language level?
+A: Level 6
+B: Level 7
+C: Level 4
+D: Level 0
+18A: C
+19: Which level of the layered architecture is the High-Level Language level?
+A: Level 5
+B: Level 3
+C: Level 4
+D: Level 0
+19A: A
+20: Which level of the layered architecture is the System Software level?
+A: Level 5
+B: Level 3
+C: Level 4
+D: Level 0
+20A: B
+21: Which level of the layered architecture is the Machine level?
+A: Level 5
+B: Level 6
+C: Level 2
+D: Level 0
+21A: C
+22: Which level of the layered architecture is the Control level?
+A: Level 1
+B: Level 6
+C: Level 2
+D: Level 0
+22A: A
+23: Which level of the layered architecture is the Digital Logic level?
+A: Level 1
+B: Level 3
+C: Level 2
+D: Level 0
+23A: D
+24: Which of the following is not one of the 3 principle hardware systems?
+A: CPU
+B: Random Number Generator
+C: Main Memory
+D: I/0
+24A: B
