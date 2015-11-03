@@ -1,84 +1,84 @@
-1: Which letter does hexadecimal go up to?
+25: Which letter does hexadecimal go up to?
 A: A
 B: D
 C: F
 D: G
-1A: C
-2: How high can 8 bit unsigned int go?
+25A: C
+26: How high can 8 bit unsigned int go?
 A: 256
 B: 255
 C: 128
 D: -128
-2A: B
-3: What is 120 in 8 bit binary?
+26A: B
+27: What is 120 in 8 bit binary?
 A: 01111000
 B: 11110010
 C: 01101000
 D: 11010010
-3A: A
-4: What is 7 in 8 bit unsigned binary?
+27A: A
+28: What is 7 in 8 bit unsigned binary?
 A: 10000100
 B: 00000111
 C: 00010110
 D: 10100111
-4A: B
-5: What is 3 in 8 bit signed magnitude?
+28A: B
+29: What is 3 in 8 bit signed magnitude?
 A: 00000101
 B: 00000111
 C: 00000011
 D: 10100111
-5A: C
-6: What is -6 in 8 bit signed magnitude?
+29A: C
+30: What is -6 in 8 bit signed magnitude?
 A: 00000101
 B: 10000111
 C: 00000011
 D: 10000110
-6A: D
-7: What is -3 in 4 bit two's compliement?
+30A: D
+31: What is -3 in 4 bit two's compliement?
 A: 1101
 B: 0111
 C: 0011
 D: 0111
-7A: A
-8: What is 2 in 4 bit two's compliement?
+31A: A
+32: What is 2 in 4 bit two's compliement?
 A: 1101
 B: 0111
 C: 0010
 D: 0111
-8A: C
-9: What is 2 in 4 bit excess-k?
+32A: C
+33: What is 2 in 4 bit excess-k?
 A: 1101
 B: 1001
 C: 0010
 D: 0111
-9A: B
-10: What is -5 in 4 bit excess-k?
+33A: B
+34: What is -5 in 4 bit excess-k?
 A: 1101
 B: 1001
 C: 0010
 D: 0111
-10A: C
-11: What is 128000 in IEEE 32 bit floating point?
+34A: C
+35: What is 128000 in IEEE 32 bit floating point?
 A: 01000111111110100000000000000000
 B: 11000111101110100000010000000000
 C: 01010110111010100000000000000000
 D: 01000111111111100000000000000000
-11A: A
-12: What is -0.0058 in IEEE 32 bit floating point?
+35A: A
+36: What is -0.0058 in IEEE 32 bit floating point?
 A: 10101011101111100000110111101001
 B: 10111011001111100100110111101101
 C: 01110111111010100000000000000000
 D: 10111011101111100000110111101101
-12A: D
-13: What is 10111011101101100000010101101101 (IEEE 32 bit floating point) in decimal?
+36A: D
+37: What is 10111011101101100000010101101101 (IEEE 32 bit floating point) in decimal?
 A: -0.005554846
 B: 0.005554846
 C: -6.5554846
 D: 6.325554846
-13A: A
-14: What is 01000111101101100000010101101101 (IEEE 32 bit floating point) in decimal?
+37A: A
+38: What is 01000111101101100000010101101101 (IEEE 32 bit floating point) in decimal?
 A: 92194.81
 B: 53124.85
 C: 93194.85
 D: -53334.85
-14A: A
+38A: A

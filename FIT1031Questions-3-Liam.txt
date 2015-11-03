@@ -1,72 +1,72 @@
-1: In the case of X+Y, which result would yield 0 i.e. false?
+39: In the case of X+Y, which result would yield 0 i.e. false?
 A:  X'Y'
 B: X'Y
 C: XY'
 D: XY
-1A: A
-2: The sum of products of XZ'+Y is?
+39A: A
+40: The sum of products of XZ'+Y is?
 A: X'YZ'+XYZ+XY'Z'+XYZ'+XYZ
 B: X'YZ'+X'YZ+XY'Z'+XYZ'+XYZ
 C: X'YZ+XYZ+XY'Z'+XYZ'+XYZ
 D: X'YZ'+XY'Z+XY'Z'+XYZ'+XYZ
-2A: B
-3: The product of sums of XZ'+Y is?
+40A: B
+41: The product of sums of XZ'+Y is?
 A: (X+Y+Z)(X+Y+Z')(X'+Y'+Z')
 B: (X+Y+Z')(X+Y+Z')(X'+Y+Z')
 C: (X+Y+Z)(X+Y+Z')(X'+Y+Z')
 D: (X+Y+Z)(X+Y'+Z')(X'+Y+Z')
-3A: C
-4: In the case of X XOR Y, which result would yield 1?
+41A: C
+42: In the case of X XOR Y, which result would yield 1?
 A:  X'Y'
 B: X'Y
 C: XY
 D: Filler
-4A: B
-5: In the case of X NAND Y, which result would yield 0?
+42A: B
+43: In the case of X NAND Y, which result would yield 0?
 A:  X'Y'
 B: X'Y
 C: XY'
 D: XY
-5A: D
-6: In the case of X NOR Y, which result would yield 1?
+43A: D
+44: In the case of X NOR Y, which result would yield 1?
 A:  X'Y'
 B: X'Y
 C: XY'
 D: XY
-6A: A
-7: Which of the following is true of a half adder?
+44A: A
+45: Which of the following is true of a half adder?
 A:  It accepts one input
 B: It finds the sum of 3 bits
 C: It is built using 5 logic gates
 D: It finds the sum of two bits
-7A: D
-8: Which of the following is not true of a full adder?
+45A: D
+46: Which of the following is not true of a full adder?
 A: It accepts 3 bits as input
 B: It is a more complex version of a half adder
 C: It outputs one bit
 D: It outputs two bits
-8A: C
-9: What does a decoder do?
+46A: C
+47: What does a decoder do?
 A: It takes n inputs and access 2^n locations
 B: Chooses from n inputs based on the log2n control line values
 C: It converts analog signals to digital
 D: It takes output and converts it to input
-9A: A
-10: What does multiplexer decoder do?
+47A: A
+48: What does multiplexer decoder do?
 A: It takes n inputs and access 2^n locations
 B: Chooses from n inputs based on the log2n control line values
 C: It converts analog signals to digital
 D: It takes output and converts it to input
-10A: B
-11: When do state changes occur in sequential circuits?
+48A: B
+49: When do state changes occur in sequential circuits?
 A: At a constant rate based on quantum physics
 B: Every second
 C: When inputs reach a certain value
 D: When the central clock ticks and sends electrical pulses
-11A: D
-12: Which of the following does not apply for a d Flip-flop?
+49A: D
+50: Which of the following does not apply for a d Flip-flop?
 A: It has an operation mode called write
 B: It has an operation mode called read
 C: It is not regulated by the clock pulse
 D: It has data in and data out
-12A: C
+51A: C
